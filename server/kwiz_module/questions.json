@@ -1,0 +1,54 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Quelle est le plus long fleuve du monde?",
+      "options": [
+        "Le Lena",
+        "Le Nil",
+        "L’Amazone"
+      ],
+      "answer": "Le Lena"
+    },
+    {
+      "id": "q2",
+      "question": "Qui est le MVP 2021 en NBA ?",
+      "options": [
+        "Russel Westbrook",
+        "LeBron James",
+        "Nikola Jokic"
+      ],
+      "answer": "Nikola Jokic"
+    },
+    {
+      "id": "q3",
+      "question": "En quelle année a été attribué le premier prix Goncourt ?",
+      "options": [
+        "1876",
+        "1903",
+        "1932"
+      ],
+      "answer": "1903"
+    },
+    {
+      "id": "q4",
+      "question": "Qui a inventé le journalisme ?",
+      "options": [
+        "Teophraste de renaudot",
+        "Jean Baptiste de poquelin",
+        "Jean Baptiste Colbert"
+      ],
+      "answer": "Teophraste de renaudot"
+    },
+    {
+      "id": "q5",
+      "question": "Mia Wallace est victime d'un accident dans pulp ficion, lequel ?",
+      "options": [
+        "Accident de voiture",
+        "Overdose d'heroine",
+        "Overdose de cocaine"
+      ],
+      "answer": "Overdose d'heroine"
+    }
+  ]
+}
